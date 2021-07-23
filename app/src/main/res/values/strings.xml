@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movies List</string>
+    <string name="no_results">No Results Found</string>
+    <string name="something_wrong">Something went wrong</string>
+    <string name="retry">Retry</string>
+    <string name="network_error">No Network connection</string>
+    <string name="search_hint">Search for Movies</string>
+
+</resources>
